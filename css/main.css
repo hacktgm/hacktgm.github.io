@@ -1267,6 +1267,12 @@ table.schedule {
   .list.orgs .capgemini a {
     color: white; }
 
+.list.orgs .github {
+  background: #FFFFFF;
+  color: white; }
+.list.orgs .github a {
+    color: white; }
+
 .list.orgs .bloomberg {
   background: white;
   color: black; }
